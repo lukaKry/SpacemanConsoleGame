@@ -1,0 +1,13 @@
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\bin\Debug\netcoreapp3.1\SpacemanConsoleGame.exe
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\bin\Debug\netcoreapp3.1\SpacemanConsoleGame.deps.json
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\bin\Debug\netcoreapp3.1\SpacemanConsoleGame.runtimeconfig.json
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\bin\Debug\netcoreapp3.1\SpacemanConsoleGame.runtimeconfig.dev.json
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\bin\Debug\netcoreapp3.1\SpacemanConsoleGame.dll
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\bin\Debug\netcoreapp3.1\SpacemanConsoleGame.pdb
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\obj\Debug\netcoreapp3.1\SpacemanConsoleGame.csprojAssemblyReference.cache
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\obj\Debug\netcoreapp3.1\SpacemanConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\obj\Debug\netcoreapp3.1\SpacemanConsoleGame.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\obj\Debug\netcoreapp3.1\SpacemanConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\obj\Debug\netcoreapp3.1\SpacemanConsoleGame.dll
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\obj\Debug\netcoreapp3.1\SpacemanConsoleGame.pdb
+C:\Users\Łukasz\source\repos\SpacemanConsoleGame\SpacemanConsoleGame\obj\Debug\netcoreapp3.1\SpacemanConsoleGame.genruntimeconfig.cache
